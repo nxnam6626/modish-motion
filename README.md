@@ -11,7 +11,8 @@
 | 1 | **Trần Đình Kiên** | 
 | 2 | **Nguyễn Thanh Cảnh** | 
 | 3 | **Vũ Hải Nam** |
-| 4 | **Hồ Thị Như Tâm** | 
+| 4 | **Hồ Thị Như Tâm** |
+| 5 | **Nguyễn Xuân Nam** | 
 
 ## 🚀 Công nghệ sử dụng
 
